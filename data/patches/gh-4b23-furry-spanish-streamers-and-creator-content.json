@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "Furry spanish streamers and creator content",
+	"description": "Icons of the minecraft skins of Blaster (Blaster_the_synx), Fau (Fau2official), Really (ReallyCrazyFurry) and Rav (RavFall), they are spanish streamers and creator content on Twitch and YouTube, and followers and friends work hard to make this r/place.  ",
+	"links": {
+		"website": [
+			"https://www.youtube.com/ravfall20",
+			"https://www.twitch.tv/blaster_the_synx",
+			"https://www.twitch.tv/reallycrazyfurry",
+			"https://www.twitch.tv/fau2official",
+			"https://www.twitch.tv/ravfall"
+		]
+	},
+	"path": {
+		"201-256": [
+			[
+				-167,
+				897
+			],
+			[
+				-158,
+				897
+			],
+			[
+				-158,
+				904
+			],
+			[
+				-142,
+				904
+			],
+			[
+				-142,
+				912
+			],
+			[
+				-167,
+				912
+			]
+		]
+	},
+	"center": {
+		"201-256": [
+			-162,
+			907
+		]
+	}
+}
